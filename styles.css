@@ -1,0 +1,56 @@
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #7EA0DC;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    
+    .photo {
+      display: inline-block;
+      vertical-align: top;
+      width: 45%;
+      padding: 10px;
+    }
+    
+    .photo img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    #js{
+      padding-left: 70px;
+      max-width: 120%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    
+    .buttons {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .buttons button {
+      padding: 10px 20px;
+      margin: 5px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    footer{
+      padding-top: 30px;
+      text-align: center;
+
+    }
